@@ -8,4 +8,5 @@ app.get('/', (req, res) => {
 // https://github.com/sarim-devlopers/okaySir
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
+  console.log(`Example app listening on port ${port}`)
 })
